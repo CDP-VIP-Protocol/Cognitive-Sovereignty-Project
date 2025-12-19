@@ -84,3 +84,16 @@ cd Cognitive-Sovereignty-Project
 
 # Run the cognitive packet demo
 python examples/cognitive_packet_demo.py
+
+---
+
+## 💰 Tokenomics (The $COG Engine)
+
+The CDP/VIP protocol is powered by **$COG**, a deflationary utility token with a **fixed supply of 1 Billion**. 
+
+
+- **Produce to Mint**: Generating high-entropy cognitive data is the only way to bring tokens into circulation.
+- **Consume to Burn**: AI manufacturers must buy and **burn** $COG to access human wisdom, creating a natural appreciation of value.
+
+
+---
