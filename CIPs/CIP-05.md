@@ -1,31 +1,24 @@
-# CIP-05: Native Tokenomics & The Burn-and-Mint Settlement Engine
+# CIP-05: The "Mint-and-Burn" Economic Engine
 
 
-## Status: Draft
+## Status: Draft 
 
-### 1. Objective 
-To create a self-sustaining economic loop where human cognition is the primary source of value. By using a native token with a fixed supply and a burn mechanism, we ensure that the protocol's value grows alongside the AI's intelligence.
-
-
-### 2. Token Symbol: $COG (Cognitive Token) 
-- **Total Supply**: Fixed (e.g., 1,000,000,000 $COG). No inflation after the genesis phase.
-- **Network**: High-throughput, Low-fee L1/L2 (e.g., Solana or AppChain) to ensure near-zero transaction costs.
+### 1. Abstract 
+This proposal defines the value flow of the $COG token. It introduces a deflationary model where data production is the only way to "mint" value, and AI data consumption is the only way to "burn" (destroy) it.
 
 
-### 3. The "Mint-and-Burn" Cycle
+### 2. Market-Driven Pricing
+To ensure a fair income for "yuan" and all contributors, we establish a **Baseline Protocol Price (BPP)**:
 
-#### A. Proof of Cognition (Minting/Mining)
-- **Process**: When a Producer generates a verified "Cognitive Packet" (CIP-01), the protocol "mints" (or releases from a reserve) $COG tokens as a reward.
-- **Value Origin**: Data is stored and indexed, waiting for AI consumers.
+- **Expert Reasoning Data (e.g., Senior Coding)**: Recommended at **$50 USD equivalent in $COG per 1MB**.
+- **Justification**: This ensures expert-level compensation that exceeds traditional centralized labeling platforms by removing middleman fees.
 
-#### B. Data Consumption (Burning) 
-- **Process**: To access or train on a specific data stream, AI Manufacturers must purchase $COG from the market and "Burn" them into a non-retrievable address.
-- **Result**: The circulating supply of $COG decreases, creating a natural deflationary pressure.
 
-### 4. Price Discovery & Pricing Range
-- **Market Driven**: The price of $COG is determined by the open market (DEX).
-- **Dynamic Pricing**: The cost to "unlock" a data packet is set in "Cognitive Units," which the protocol converts to $COG based on current market rates.
+### 3. The Economic Loop
+1. **Production (Minting)**: Human producers generate verified packets. The protocol issues $COG tokens to their DID wallets.
+2. **Subscription (Staking)**: AI Manufacturers buy $COG from the open market.
+3. **Usage (Burning)**: Each time an AI model trains on a packet, the required amount of $COG is **permanently burned**.
 
-### 5. Settlement Engine (VIP-Core) | 结算引擎核心
-- **Streaming Payments**: Credits are deducted in real-time as the AI consumes data bits.
-- **流式支付**: 随着 AI 消费数据，费用实时扣除，实现“所见即所得”的结算。
+
+### 4. Scarcity & Growth
+As the demand for high-entropy human data increases, the total circulating supply of $COG will shrink, creating a natural appreciation for early adopters and long-term contributors.
