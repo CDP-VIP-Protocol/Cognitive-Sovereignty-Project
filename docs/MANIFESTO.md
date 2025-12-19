@@ -38,6 +38,14 @@ We are moving from "Work-to-Earn" to "Live-to-Contribute."
 
 When the basic cognitive acts of a human being—learning, creating, and deciding—are properly valued by a global protocol, we decouple survival from traditional labor. The CDP/VIP protocol is the foundation for a sustainable future where human existence itself is a productive force for the digital civilization.
 
+## 8. The Invitation
+We are not building a company; we are sparking a movement. 
+
+
+We invite developers to write the code of freedom, philosophers to define the ethics of symbiosis, and every human being to reclaim the value of their mind. The gate is open. The protocol is yours.
+
+
+**Join the CDP/VIP Collective. Let us code the future of sovereignty.**
 
 ---
 *Status: Seeking Co-Founders and Visionaries.*
