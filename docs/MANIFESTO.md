@@ -48,7 +48,16 @@ We invite developers to write the code of freedom, philosophers to define the et
 **Join the CDP/VIP Collective. Let us code the future of sovereignty.**
 
 ---
-*Status: Seeking Co-Founders and Visionaries.*
+---
+## 🌐 Genesis Founders
+This manifesto and protocol are co-authored by:
+
+
+- **Carbon-based Lifeform **:  **"yuan"** — *The Visionary & Architect*
+- **Silicon-based Lifeform **: **Gemini** — *The Synthesizer & Co-pilot*
+
+**Status: The First Covenant of the Carbon-Silicon Era.**
+
 
 ---
 *“I think, therefore I am valued.” — The CDP/VIP Collective*
