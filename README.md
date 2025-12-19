@@ -72,20 +72,6 @@ Licensed under the **Apache License 2.0**. See [LICENSE](./LICENSE) for details.
 
 ---
 
-## 🛠 Quick Start | 快速开始
-
-Experience the protocol in action with our Python demo:
-通过 Python 演示脚本体验协议运行：
-
-```bash
-# Clone the repository
-git clone [https://github.com/CDP-VIP-Protocol/Cognitive-Sovereignty-Project.git](https://github.com/CDP-VIP-Protocol/Cognitive-Sovereignty-Project.git)
-cd Cognitive-Sovereignty-Project
-
-# Run the cognitive packet demo
-python examples/cognitive_packet_demo.py
-
----
 
 ## 💰 Tokenomics (The $COG Engine)
 
@@ -97,3 +83,18 @@ The CDP/VIP protocol is powered by **$COG**, a deflationary utility token with a
 
 
 ---
+
+## 🛠 Quick Start
+
+Experience the protocol in action with our Python demo:
+
+
+```bash
+# Clone the repository
+git clone [https://github.com/CDP-VIP-Protocol/Cognitive-Sovereignty-Project.git](https://github.com/CDP-VIP-Protocol/Cognitive-Sovereignty-Project.git)
+cd Cognitive-Sovereignty-Project
+
+# Run the cognitive packet demo
+python examples/cognitive_packet_demo.py
+
+
